@@ -12,5 +12,6 @@ Following are some of the key outlines of the work :
 1) Notepad : Is the first of the Hello World Example. The bot opens notepad document and then greets you. 
 2) Robot2 : Is an application that demonstrates the using a Desktop and web application to insert data simultaneously.
 3) ClothingConsultant :  Scraps data from google and suggests you what cloths to wear.  
-4) Automation Challenge : Demonstrates how UiPath can be used to enter records into dynamically changing website with the help of Anchor Base
-5) Real Estate web scraping : is an example of scraping data from website and can be used to assess an analyse in a BI tool.
+4) Web scraping : is an example of scraping data from website and can be used to assess an analyse in a BI tool.
+5) Automation Challenge : Demonstrates how UiPath can be used to enter records into dynamically changing website with the help of Anchor Base
+
